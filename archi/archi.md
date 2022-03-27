@@ -171,6 +171,8 @@ MIT
 
 ## Plantuml
 
+this is a simple diagram example
+
 ```plantuml
 
 @startuml 
@@ -182,7 +184,20 @@ Alice -> Bob: Another authentication Request
 Alice <-- Bob: Another authentication Response
 
 @enduml
+
+
+
 ```
+
+this is a link to a third server
+this works
+![this is a link](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
+
+now my link to this server
+
+![this is a link](http://www.plantuml.com/plantuml/proxy?cache=no&src=archi/useCase_oama.puml)
+
+
 
 
 
